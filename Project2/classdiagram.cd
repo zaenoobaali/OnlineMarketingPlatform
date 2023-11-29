@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project2.Repository.Interfaces.INotifyServices">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\INotifyServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IOrderService">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAEhACAAAgAAAAEQAAAEAAoAECAAAEAABABAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IPopularizationService">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IPopularizationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IPostServices">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAMAMAAmAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IPostServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IProductService">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IProductService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IProfileService">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAIAAAAAECAAAMQAQEAAAAgACAFAAAAIBAAABAA=</HashCode>
+      <FileName>Repository\Interfaces\IProfileService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.ISearchService">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIE=</HashCode>
+      <FileName>Repository\Interfaces\ISearchService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IUserService">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQIgAAAAACAgAAAIAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.NotifyServices">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAA=</HashCode>
+      <FileName>Repository\Services\NotifyServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.OrderService">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAhAAEhACAAAgAAAAEQAAAEAAoAECAAAEAABABAAAA=</HashCode>
+      <FileName>Repository\Services\OrderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.PopularizationService">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAiAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Services\PopularizationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.ProductService">
+    <Position X="18.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAIAAAAAAAAQAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Repository\Services\ProductService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.SearchService">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIE=</HashCode>
+      <FileName>Repository\Services\SearchService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.UserService">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQIgAAAAACAkAAgIQAABAAAAAAQAAAAAQA=</HashCode>
+      <FileName>Repository\Services\UserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.ProfileService">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABQAIAAAAAECBAAMQAQEAAAAgACAFAAABoBAAABAA=</HashCode>
+      <FileName>Repository\Services\ProfileService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.PostServices">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQAAAAAAAAAAAAAAAAAIAAAMAMAAmAAAAA=</HashCode>
+      <FileName>Repository\Services\PostServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IAdminService">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABgAgAAABQAAEgIgAAAAwCQAHBAgQCAAAIAAACAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IAdminService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IComplaintService">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Repository\Interfaces\IComplaintService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.ICustomerService">
+    <Position X="20.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAgAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\ICustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IDeliverService">
+    <Position X="14.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IDeliverService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Interfaces.IMarketerService">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Interfaces\IMarketerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.AdminService">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABhAgAAABQAAEgIgAAAAwCQAHBAgQCAAAIAAACAAQA=</HashCode>
+      <FileName>Repository\Services\AdminService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.ComplaintService">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Repository\Services\ComplaintService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.CustomerService">
+    <Position X="24.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAQAAAAgAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Services\CustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.DeliverService">
+    <Position X="18.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAABAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Services\DeliverService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.Repository.Services.MarketerService">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAAAAAAAQAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Repository\Services\MarketerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
