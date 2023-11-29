@@ -2,7 +2,10 @@
 
 A Backend project for Online Marketing Platform.
 
-Using ASP.NET core 6 (c#)
+This online marketing platform aims to facilitate purchase and sale between sellers and buyers.
+
+Using ASP.NET Core 6 For Backend with React.Js For Frontend and Sql Server.
+
 
 We have 3 users (customer , marketer , deliver ) and admin.
 
@@ -38,4 +41,6 @@ The admain can do :
 3 - Replay Complaint
 4 - Accept Popularization
 5 - Add Deliver
+
+
 
