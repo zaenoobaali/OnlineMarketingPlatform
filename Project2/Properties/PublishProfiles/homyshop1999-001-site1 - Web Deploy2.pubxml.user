@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-08-19T19:53:05.9131041Z;True|2023-08-19T13:57:13.7188461+03:00;True|2023-08-19T13:04:56.9683332+03:00;True|2023-08-19T11:03:19.7992947+03:00;True|2023-08-19T09:42:05.6921813+03:00;True|2023-08-19T01:21:58.8436167+03:00;True|2023-08-19T01:13:02.6884640+03:00;True|2023-08-19T01:00:26.9975693+03:00;True|2023-08-19T00:39:37.5420669+03:00;True|2023-08-18T20:20:24.3676239+03:00;True|2023-08-18T18:24:31.9052381+03:00;True|2023-08-18T13:20:30.9442624+03:00;False|2023-08-18T13:18:15.4514132+03:00;True|2023-08-18T13:09:23.0687850+03:00;True|2023-08-18T13:00:56.7480716+03:00;True|2023-08-17T22:47:20.9481495+03:00;False|2023-08-17T22:43:59.4982922+03:00;True|2023-08-17T22:31:43.6923729+03:00;True|2023-08-17T22:02:07.1122331+03:00;False|2023-08-17T21:55:14.2962466+03:00;True|2023-08-17T21:26:14.0656042+03:00;True|2023-08-17T20:12:13.3783056+03:00;True|2023-08-17T20:05:47.8770334+03:00;True|2023-08-17T19:59:02.9033990+03:00;True|2023-08-17T19:24:59.8700683+03:00;True|2023-08-16T22:28:59.1103428+03:00;True|2023-08-15T22:55:12.1085125+03:00;True|2023-08-15T00:34:41.5610968+03:00;True|2023-08-15T00:05:58.3383849+03:00;True|2023-08-14T23:19:12.9671247+03:00;False|2023-08-14T23:15:07.8512845+03:00;True|2023-08-14T10:42:16.0431513+03:00;True|2023-08-11T22:21:36.0445458+03:00;True|2023-08-11T10:38:50.4313254+03:00;True|2023-08-11T10:32:36.8869248+03:00;True|2023-08-10T01:24:26.7141639+03:00;True|2023-08-10T00:52:34.7552803+03:00;True|2023-08-10T00:44:08.6834649+03:00;True|2023-08-10T00:35:37.5284653+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8005.site4now.net%3bInitial Catalog=db_a9d4a9_homyshop%3bUser Id=db_a9d4a9_homyshop_admin%3bPassword=5HINeePINee</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
